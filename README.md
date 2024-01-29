@@ -1,6 +1,6 @@
 ### Study in University of London
-Algorithms and Data Structures I
-Algorithms and Data Structures II
+1 Algorithms and Data Structures I 
+2 Algorithms and Data Structures II
 
 ### Study in Udemy
 JavaScript Algorithms and Data Structures Masterclass https://www.udemy.com/certificate/UC-9c8afaa6-06a9-439e-a0f8-f10cb5323905/
